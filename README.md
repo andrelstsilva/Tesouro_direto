@@ -89,6 +89,9 @@ python -m src.pipeline
 ```powershell
 streamlit run app.py
 ```
+```Direto do navegador 
+https://tesourodireto.streamlit.app
+```
 
 ## Testes
 
